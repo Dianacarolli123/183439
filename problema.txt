@@ -1,0 +1,9 @@
+Cada filósofo puede tomar los tenedores que están a su izquierda o derecha, para poder comer el filósofo 
+de tener los dos tenedores. Si cualquier filósofo toma los dos tenedores entonces los que están al lado 
+queda en espera. Hay un tenedor y los dos filósofos compiten por tomarlo y uno queda sin tenedores.
+
+Si todos los filósofos toman el tenedor que está a su derecha entonces todos se quedaran esperando 
+infinitamente. Nadie va a ceder su tenedor porque todos están en la misma situación.
+¿Cómo podemos hacer para que los filósofos no sufran para comer? , el problema en sí tiene muchas 
+soluciones pero solo vamos a enunciar una: Un filósofo toma los dos tenedores y los demás hacen una 
+cola alrededor de la mesa para saber cual es el siguiente hasta que todos acaban.
